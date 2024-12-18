@@ -1,5 +1,7 @@
 ## Hi there 👋
-- 📫 How to reach me: linkedin.com/in/matthew-moga
+- 🔭 I’m currently working on Full-Stack Web Applications in Python
+- 🌱 I’m currently learning ML and AI
+- 📫 How to reach me: matthew.moga@torontomu.ca  linkedin.com/in/matthew-moga
 
 <!--
 **Matt1092/matt1092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
