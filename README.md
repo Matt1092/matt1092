@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Matthew, and I'm a 2nd year Computer Science Student at Toronto Metropolitan University interested in Full-Stack Web Development and Machine Learning!
-- 🔭 I’ve recently developed a Full-Stack Web Application designed to help users manage their productivity and track their accomplishments over time through an interactive UI
+- 🔭 I’ve recently developed a Full-Stack Web Application designed to help users manage their productivity and track their accomplishments over time through an interactive           user interface
 - 🌱 I’m currently learning ML and AI
 - 📫 How to reach me: matthew.moga@torontomu.ca or https://www.linkedin.com/in/matthew-moga
 
