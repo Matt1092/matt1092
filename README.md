@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **different programming paradigms (functional, object-oriented, etc.) and delving into the inner workings of operating systems**
 
-- 📫 How to reach me **matthew.moga@torontomu.ca or https://www.linkedin.com/in/matthew-moga**
+- 📫 How to reach me **matthew.moga@torontomu.ca**
 
 - ⚡ Fun fact **I can dunk a basketball**
 
