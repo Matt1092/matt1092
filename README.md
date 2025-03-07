@@ -3,7 +3,7 @@ A 2nd year Computer Science Student at Toronto Metropolitan University with a st
 + 🔭 I’ve recently developed ProgressPal
 + 🌱 I’m currently learning different programming paradigms and delving into the inner workings of operating systems
 + 📫 How to reach me: matthew.moga@torontomu.ca
-+ ⚡ Fun fact: I'm 260 bro
++ ⚡ Fun fact: I'm a certified hooper
 
 
 ## 🌐 Socials:
